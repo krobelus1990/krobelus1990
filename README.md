@@ -1,9 +1,9 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋 Who am I? #
 <div>
- <img align="left" src="./assets/1234 (16).png" width="250" height = '320'/>
-<h1 align="center">Hey, I am Akihiro!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
+ <img align="left" src="./assets/1234 (16).png" width="270" height = '320'/>
 <img src="./assets/avatar002.png" width="50" height="50" alt="cryptopunks_1030" />
+<h1 align="center">Hey, I am Akihiro!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
  </h1>
 <h3 align="center">TechGenie: Your One-Stop Solution for Full-Stack Engineering</h3>
 <br/>
