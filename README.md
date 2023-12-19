@@ -1,8 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋 Who am I? #
-<div style="display: flex; align: center; ">
- <img align="left" src="./assets/1234 (16).png" width="220" height = '300'/>
- <div width='50'>
+<div>
+ <img align="left" src="./assets/1234 (16).png" width="220" height = '250'/>
 <h1 align="center">Hey, I am Akihiro!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
 <img src="./assets/1234 (16).png" width="50" height="50" alt="cryptopunks_1030" />
  </h1>
@@ -13,8 +12,6 @@
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
-
- </div>
 </div>
 
 # Main Skills #
