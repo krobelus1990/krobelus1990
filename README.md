@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋 Who am I? #
 <div>
- <img align="left" src="./assets/1234 (16).png" width="220" />
+ <img align="left" src="./assets/1234 (16).png" width="220" style='margin-top:50px' />
 <h1 align="center">Hey, I am Akihiro!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
 <img src="./assets/1234 (16).png" width="50" height="50" alt="cryptopunks_1030" />
  </h1>
