@@ -2,7 +2,7 @@
 # Hello! 👋 Who am I? #
 <div style="display: flex; align: center; ">
  <img align="left" src="./assets/1234 (16).png" width="220" />
- <div>
+ <div width='50%'>
 <h1 align="center">Hey, I am Akihiro!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
 <img src="./assets/1234 (16).png" width="50" height="50" alt="cryptopunks_1030" />
  </h1>
