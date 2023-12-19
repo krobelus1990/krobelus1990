@@ -161,11 +161,11 @@
 <p align="center">
 
 <!--
-<a href="https://github.com/john199310?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@John's github-readme-stats"/></a>
+<a href="https://github.com/TanakaAkihiro0930?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@John's github-readme-stats"/></a>
 -->
 
-<a href="https://github.com/john199310?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@John's github-readme-stats"/></a>
-<a href="https://github.com/john199310?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=John199310&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@John's github-readme-streak-stats"/></a>
+<a href="https://github.com/TanakaAkihiro0930?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@John's github-readme-stats"/></a>
+<a href="https://github.com/TanakaAkihiro0930?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=TanakaAkihiro0930&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@John's github-readme-streak-stats"/></a>
 
 </p>
 
@@ -175,7 +175,7 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@John199310">
+    <a href="https://wakatime.com/">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
@@ -183,8 +183,8 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@John199310"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@John's wakatime stats"/></a>
-<a href="https://github.com/John199310?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@John's trophy stats"/></a>
+<a href="https://wakatime.com/"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@John's wakatime stats"/></a>
+<a href="https://github.com/TanakaAkihiro0930?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@John's trophy stats"/></a>
 </p>
 
 
@@ -192,14 +192,14 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@John199310"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/John199310?tab=following"><img src="https://img.shields.io/github/stars/John199310?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/John199310?tab=followers"><img src="https://img.shields.io/github/followers/John199310?&logoColor=red&style=social" alt="GitHub followers"></a>
+<a href="https://wakatime.com/"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
+<a href="https://github.com/TanakaAkihiro0930?tab=following"><img src="https://img.shields.io/github/stars/TanakaAkihiro0930?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+<a href="https://github.com/TanakaAkihiro0930?tab=followers"><img src="https://img.shields.io/github/followers/TanakaAkihiro0930?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
 
 <p align="center">
-<a href="https://gist.github.com/John199310"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="John199310 :: Visitor's Count" /></a>
+<a href="https://gist.github.com/TanakaAkihiro0930"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="TanakaAkihiro0930 :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
@@ -207,11 +207,11 @@
 
 # Reach out to me #
 <a href="mailto:kingalexandros8888@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/John199310"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
-<a href="https://ru.stackoverflow.com/users/371584/John199310"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="en.stackoverflow profile"></a>
-<a href="https://stackoverflow.com/users/13531449/John199310"><img src="./assets/stack_overflow.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
-<a href="https://askubuntu.com/users/1561126/John199310"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
-<a href="https://freelance.habr.com/freelancers/John199310"><img src="./assets/habr.png" alt="freelance.habr" height="50" title="freelance.habr profile"></a>
+<a href="https://t.me/TanakaAkihiro0930"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
+<a href="https://ru.stackoverflow.com/users/371584/TanakaAkihiro0930"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="en.stackoverflow profile"></a>
+<a href="https://stackoverflow.com/users/13531449/TanakaAkihiro0930"><img src="./assets/stack_overflow.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
+<a href="https://askubuntu.com/users/1561126/TanakaAkihiro0930"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
+<a href="https://freelance.habr.com/freelancers/TanakaAkihiro0930"><img src="./assets/habr.png" alt="freelance.habr" height="50" title="freelance.habr profile"></a>
 <a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Olde Coders"></a>
 <a href="https://github.com/DroidDump"><img src="./assets/droiddump.png" alt="Droid Dump" height="50" title="Android projects"></a>
 <a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a>
