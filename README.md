@@ -1,7 +1,8 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋 Who am I? #
-<div>
- <img align="left" src="./assets/1234 (16).png" width="220" style='margin-top:50;' />
+<div style="display: flex; align: center; ">
+ <img align="left" src="./assets/1234 (16).png" width="220" />
+ <div>
 <h1 align="center">Hey, I am Akihiro!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
 <img src="./assets/1234 (16).png" width="50" height="50" alt="cryptopunks_1030" />
  </h1>
@@ -13,6 +14,7 @@
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 
+ </div>
 </div>
 
 # Main Skills #
