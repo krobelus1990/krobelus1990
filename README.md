@@ -1,8 +1,8 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋 Who am I? #
 <div>
- <img align="left" src="./assets/1234 (16).png" width="270" height = '320'/>
-<h1 align="center">Hey, I am Renee Feng!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
+<!--  <img align="left" src="./assets/1234 (16).png" width="270" height = '320'/> -->
+<h1 align="center">Hey, I am Takuya!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
 <img src="./assets/avatar002.png" width="50" height="50" alt="cryptopunks_1030" />
  </h1>
 <h3 align="center">TechGenie: Your One-Stop Solution for Full-Stack Engineering</h3>
@@ -205,12 +205,5 @@
 
 
 # Reach out to me #
-<a href="mailto:kingalexandros8888@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/TanakaAkihiro0930"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
-<a href="https://ru.stackoverflow.com/users/371584/TanakaAkihiro0930"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="en.stackoverflow profile"></a>
-<a href="https://stackoverflow.com/users/13531449/TanakaAkihiro0930"><img src="./assets/stack_overflow.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
-<a href="https://askubuntu.com/users/1561126/TanakaAkihiro0930"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
-<a href="https://freelance.habr.com/freelancers/TanakaAkihiro0930"><img src="./assets/habr.png" alt="freelance.habr" height="50" title="freelance.habr profile"></a>
-<a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Olde Coders"></a>
-<a href="https://github.com/DroidDump"><img src="./assets/droiddump.png" alt="Droid Dump" height="50" title="Android projects"></a>
-<a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a>
+<a href="takuyafukuda0930@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="https://t.me/Icaru1995"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
