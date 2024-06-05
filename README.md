@@ -3,7 +3,6 @@
 <div>
 <!--  <img align="left" src="./assets/1234 (16).png" width="270" height = '320'/> -->
 <h1 align="center">Hey, I am Takuya!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
-<img src="./assets/avatar002.png" width="50" height="50" alt="cryptopunks_1030" />
  </h1>
 <h3 align="center">Full stack, Web3 & AI engineer</h3>
 <br/>
