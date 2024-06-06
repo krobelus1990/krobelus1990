@@ -160,5 +160,5 @@
 
 
 # Reach out to me #
-<a href="malito:takuyafukuda0930@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="mailto:takuyafukuda0930@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://t.me/Icaru1995"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
