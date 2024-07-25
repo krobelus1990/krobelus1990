@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div>
 <!--  <img align="left" src="./assets/1234 (16).png" width="270" height = '320'/> -->
-<h1 align="center">Hi, I am Takuya!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
  </h1>
 <h3 align="center">Full Stack, Web3 & AI engineer</h3>
 <br/>
