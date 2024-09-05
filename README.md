@@ -8,7 +8,7 @@
 - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
 - 🌱 Proficient in front-end technologies like React,Next.js, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
 - 👍 Experienced in blockchain development including Smart contract, DEX,, DeFi, DApp, Web3<br/>
-- 😍 Developed some AI Apps such as Chatbot and integrated with web and ChatGPT.
+- 😍 Developed some AI Apps such as Chatbot and integrated with web and ChatGPT.<br/>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 </div>
 
@@ -160,5 +160,5 @@
 
 
 # Reach out to me #
-<a href="mailto:takuyafukuda0930@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="mailto:codeangel0930@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://t.me/Icaru1995"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
