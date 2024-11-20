@@ -5,7 +5,7 @@
  </h1>
 <h3 align="center">Full Stack, Web3 & AI engineer</h3>
 <br/>
-- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
+- 🔭 Full-stack developer with 7+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
 - 🌱 Proficient in front-end technologies like React,Next.js, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
 - 👍 Experienced in blockchain development including Smart contract, DEX,, DeFi, DApp, Web3<br/>
 - 😍 Developed some AI Apps such as Chatbot and integrated with web and ChatGPT.<br/>
